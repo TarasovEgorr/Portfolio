@@ -1,7 +1,7 @@
 ### Определение наиболее выгодного региона нефтедобычи
-[HTML](./ProjectNeft.html)
+[HTML](./Project Neft.html)
 
-[ipynb](./ProjectNeft.ipynb)
+[ipynb](./Project Neft.ipynb)
 
 **Сферы деятельности:** `Добывающие компании`
 
